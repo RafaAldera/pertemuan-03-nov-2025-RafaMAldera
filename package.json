@@ -1,7 +1,7 @@
 {
   "name": "pertemuan-03-nov-2025-rafamaldera",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js"
@@ -13,6 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/RafaAldera/pertemuan-03-nov-2025-RafaMAldera/issues"
   },
